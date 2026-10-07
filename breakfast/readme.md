@@ -10,7 +10,7 @@ Idli is a traditional South Indian breakfast made from a fermented batter of ric
 |-------|------|
 | Prep Time | 20 minutes, plus soaking and fermentation |
 | Cook Time | 15–20 minutes |
-| Total Time | About 10–14 hours including soaking and fermentation |
+| Total Time | About 12–18 hours including soaking and fermentation |
 | Servings | 4–6 |
 | Difficulty | Medium |
 | Tags | South Indian, vegetarian, vegan, gluten-free, breakfast |
