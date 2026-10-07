@@ -57,3 +57,7 @@ This vegetarian chili combines kidney beans, black beans, and pinto beans with t
 ### Author(s):
 
 Original three-bean chili adaptation prepared for the CodeMates 2 shared recipe collection.
+
+### Suggested Drink: jarritos.com
+
+Flavor & Effect: A refreshing Mexican soda with a bright lime flavor, a balance of sweetness and acidity, and lively carbonation. It refreshes the palate between bites and balances the chili’s rich, smoky flavors.
