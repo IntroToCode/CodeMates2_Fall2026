@@ -20,6 +20,7 @@ Historical source: [Academia Barilla](https://www.barilla.com/global/help-with/g
 | Total Time | 35 minutes |
 | Servings | 4 |
 | Difficulty | Easy |
+| Spice Level | 🌶️🌶️🌶️ |
 | Tags | Italian, vegetarian, vegan, pasta, lunch |
 
 ### Ingredients:

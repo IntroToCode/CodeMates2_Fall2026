@@ -13,6 +13,7 @@ This vegetarian chili combines kidney beans, black beans, and pinto beans with t
 | Total Time | 45 minutes |
 | Servings | 6 |
 | Difficulty | Easy |
+| Spice Level | 🌶️🌶️ |
 | Tags | vegetarian, vegan, dinner, one-pot, group-friendly |
 
 ### Ingredients:
