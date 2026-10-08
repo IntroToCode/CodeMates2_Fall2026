@@ -53,3 +53,9 @@ Idli is a traditional South Indian breakfast made from a fermented batter of ric
 ### Author(s):
 
 Traditional South Indian recipe
+
+### Spiciness Level
+Spiciness is rated on a three-point scale: 🌶️ Mild, 🌶️🌶️ Medium, and 🌶️🌶️🌶️ Hot.
+
+### Idli — 🌶️ Mild (1/3)
+Idli itself is not spicy. These soft, steamed rice cakes have a mild, slightly tangy flavor from fermentation. However, the spiciness can increase depending on the accompaniments, especially sambar (a spiced lentil stew) and chutneys.
