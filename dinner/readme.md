@@ -58,3 +58,7 @@ This vegetarian chili combines kidney beans, black beans, and pinto beans with t
 ### Author(s):
 
 Original three-bean chili adaptation prepared for the CodeMates 2 shared recipe collection.
+
+### Beverage:
+
+Serve with chilled Fanta. Plan for 6 cans, one per person, with ice on the side.
